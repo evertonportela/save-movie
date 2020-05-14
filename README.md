@@ -1,28 +1,8 @@
-# Adonis API application
+# SaveMovie API
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+## Descrição:
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
+<p>API desenvolvida durante curso de API REST com AdonisJS</p>
+<p>Provém um serviço ao qual o usuário pode se registrar e armazenar sua lista de interesses de filmes.</p>
 
 
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
